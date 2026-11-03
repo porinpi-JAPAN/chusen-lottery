@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>抽選まとめ | ポケカ＆ちいかわ</title>
+<style>
+  :root{
+    --bg:#f6f4ef; --card:#ffffff; --text:#26241f; --muted:#6f6a5e;
+    --line:#e3ded2; --accent:#c2410c; --accent-bg:#fdf0e7;
+    --ok:#15803d; --ok-bg:#e9f7ee; --soon:#b91c1c; --soon-bg:#fdecec;
+    --pre:#1d4ed8; --pre-bg:#e8effe; --done:#8a8578; --done-bg:#efede7;
+    --hot:#b45309; --hot-bg:#fdf3e0;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#171613; --card:#22211d; --text:#ece9e2; --muted:#a39d8f;
+      --line:#37352e; --accent:#fb923c; --accent-bg:#3a2417;
+      --ok:#4ade80; --ok-bg:#17301f; --soon:#f87171; --soon-bg:#3a1d1d;
+      --pre:#93c5fd; --pre-bg:#1c2a45; --done:#8a8578; --done-bg:#2a2925;
+      --hot:#fbbf24; --hot-bg:#38300f;
+    }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Noto Sans JP",sans-serif;background:var(--bg);color:var(--text);line-height:1.6}
+  .wrap{max-width:760px;margin:0 auto;padding:20px 16px 48px}
+  header{margin-bottom:8px}
+  h1{font-size:22px;margin:0 0 4px}
+  .updated{color:var(--muted);font-size:13px}
+  h2{font-size:18px;margin:28px 0 10px;padding-bottom:6px;border-bottom:2px solid var(--line)}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:10px}
+  .card.done{opacity:.62}
+  .card.urgent{border-color:var(--soon);background:var(--soon-bg)}
+  .head{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:6px}
+  .badge{font-size:11px;font-weight:700;padding:2px 8px;border-radius:999px;white-space:nowrap}
+  .b-ok{background:var(--ok-bg);color:var(--ok)}
+  .b-soon{background:var(--soon);color:#fff}
+  .b-pre{background:var(--pre-bg);color:var(--pre)}
+  .b-done{background:var(--done-bg);color:var(--done)}
+  .b-hot{background:var(--hot-bg);color:var(--hot)}
+  .b-applied{background:var(--accent-bg);color:var(--accent)}
+  .title{font-weight:700;font-size:15.5px}
+  .meta{font-size:13px;color:var(--muted)}
+  .meta b{color:var(--text);font-weight:600}
+  .note{font-size:13px;margin-top:6px}
+  .empty{color:var(--muted);font-size:14px;padding:8px 0}
+  footer{margin-top:36px;font-size:12px;color:var(--muted)}
+  a{color:var(--accent)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>抽選まとめ | ポケカ＆ちいかわ</h1>
+    <div class="updated" id="updated">読み込み中…</div>
+  </header>
+  <h2>ポケカ抽選</h2>
+  <div id="pokeca"></div>
+  <h2>ちいかわ抽選・申込</h2>
+  <div id="chiikawa"></div>
+  <footer>個人用のまとめページです。応募条件・日時は各公式ページで必ず最終確認してください。</footer>
+</div>
+<script>
+const H48 = 48*60*60*1000;
+function fmt(d){
+  if(!d) return "";
+  const x = new Date(d);
+  const p = n => String(n).padStart(2,"0");
+  return (x.getMonth()+1)+"/"+x.getDate()+" "+p(x.getHours())+":"+p(x.getMinutes());
+}
+function statusOf(it, now){
+  const end = it.end ? new Date(it.end).getTime() : null;
+  const start = it.start ? new Date(it.start).getTime() : null;
+  if(end !== null && now > end) return {key:"done", label:"終了", rank:3};
+  if(start !== null && now < start) return {key:"pre", label:"開始前", rank:2};
+  if(end !== null && end - now < H48) return {key:"soon", label:"締切間近", rank:0};
+  return {key:"ok", label:"受付中", rank:1};
+}
+function remainText(it, now){
+  const end = it.end ? new Date(it.end).getTime() : null;
+  if(end === null) return "";
+  const diff = end - now;
+  if(diff <= 0) return "";
+  const h = Math.floor(diff/3600000), d = Math.floor(h/24);
+  if(d >= 1) return "あと"+d+"日";
+  if(h >= 1) return "あと"+h+"時間";
+  return "あと"+Math.max(1,Math.floor(diff/60000))+"分";
+}
+function render(el, items, now){
+  if(!items.length){ el.innerHTML = '<div class="empty">現在表示できる情報はありません。</div>'; return; }
+  el.innerHTML = items.map(({it, st}) => {
+    const period = [];
+    if(it.start) period.push(fmt(it.start)+"〜");
+    if(it.end) period.push((it.start?"":"〜")+fmt(it.end)+" 締切");
+    const badges = [
+      '<span class="badge '+(st.key==="done"?"b-done":st.key==="pre"?"b-pre":st.key==="soon"?"b-soon":"b-ok")+'">'+st.label+(st.key==="soon"?" "+remainText(it,now):"")+'</span>',
+      it.hot ? '<span class="badge b-hot">注目</span>' : "",
+      it.applied ? '<span class="badge b-applied">応募済み</span>' : ""
+    ].join("");
+    const titleHtml = it.url
+      ? '<a href="'+it.url+'" target="_blank" rel="noopener">'+it.title+'</a>'
+      : it.title;
+    return '<div class="card'+(st.key==="done"?" done":"")+(st.key==="soon"?" urgent":"")+'">'
+      + '<div class="head">'+badges+'</div>'
+      + '<div class="title">'+titleHtml+'</div>'
+      + '<div class="meta"><b>'+it.shop+'</b>'
+      + (period.length ? ' ／ '+period.join(" ") : '')
+      + (it.method ? '<br>'+it.method : '')
+      + '</div>'
+      + (it.note ? '<div class="note">'+it.note+'</div>' : '')
+      + '</div>';
+  }).join("");
+}
+fetch("data.json").then(r=>r.json()).then(data=>{
+  const now = Date.now();
+  document.getElementById("updated").textContent = "最終更新: "+new Date(data.updatedAt).toLocaleString("ja-JP",{timeZone:"Asia/Tokyo"})+"（自動巡回チェックより）";
+  for(const cat of ["pokeca","chiikawa"]){
+    const items = data.items
+      .filter(it=>it.category===cat)
+      .map(it=>({it, st:statusOf(it, now)}))
+      .sort((a,b)=>{
+        if(a.st.rank!==b.st.rank) return a.st.rank-b.st.rank;
+        const ae = a.it.end?new Date(a.it.end).getTime():Infinity;
+        const be = b.it.end?new Date(b.it.end).getTime():Infinity;
+        if(a.st.rank===3) return be-ae;
+        return ae-be;
+      });
+    render(document.getElementById(cat), items, now);
+  }
+}).catch(()=>{
+  document.getElementById("updated").textContent = "データの読み込みに失敗しました。";
+});
+</script>
+</body>
+</html>
