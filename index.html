@@ -66,6 +66,7 @@
   <div class="tabs" role="tablist">
     <button class="tab active" id="tab-pokeca" role="tab" data-cat="pokeca">ポケカ抽選<span class="count" id="count-pokeca">-</span><span class="dot" id="dot-pokeca"></span></button>
     <button class="tab" id="tab-chiikawa" role="tab" data-cat="chiikawa">ちいかわ抽選・申込<span class="count" id="count-chiikawa">-</span><span class="dot" id="dot-chiikawa"></span></button>
+    <button class="tab" id="tab-sales" role="tab" data-cat="sales">販売情報<span class="count" id="count-sales">-</span><span class="dot" id="dot-sales"></span></button>
   </div>
   <div id="list"></div>
   <footer>個人用のまとめページです。応募条件・日時は各公式ページで必ず最終確認してください。</footer>
@@ -142,12 +143,12 @@ document.querySelectorAll(".tab").forEach(t=>t.addEventListener("click", ()=>sho
 fetch("data.json").then(r=>r.json()).then(data=>{
   DATA = data; NOW = Date.now();
   document.getElementById("updated").textContent = "最終更新: "+new Date(data.updatedAt).toLocaleString("ja-JP",{timeZone:"Asia/Tokyo"})+"（自動巡回チェックより）";
-  for(const cat of ["pokeca","chiikawa"]){
+  for(const cat of ["pokeca","chiikawa","sales"]){
     const items = prepare(data.items.filter(it=>it.category===cat), NOW);
     document.getElementById("count-"+cat).textContent = items.filter(x=>x.st.key!=="done").length;
     document.getElementById("dot-"+cat).classList.toggle("on", items.some(x=>x.st.key==="soon"));
   }
-  show(location.hash === "#chiikawa" ? "chiikawa" : "pokeca");
+  show(["chiikawa","sales"].includes(location.hash.slice(1)) ? location.hash.slice(1) : "pokeca");
 }).catch(()=>{
   document.getElementById("updated").textContent = "データの読み込みに失敗しました。";
 });
