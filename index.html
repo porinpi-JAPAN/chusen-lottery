@@ -10,7 +10,7 @@
     --line:#e3ded2; --accent:#c2410c; --accent-bg:#fdf0e7;
     --ok:#15803d; --ok-bg:#e9f7ee; --soon:#b91c1c; --soon-bg:#fdecec;
     --pre:#1d4ed8; --pre-bg:#e8effe; --done:#8a8578; --done-bg:#efede7;
-    --hot:#b45309; --hot-bg:#fdf3e0;
+    --hot:#b45309; --hot-bg:#fdf3e0; --tab-bg:#e9e5da;
   }
   @media (prefers-color-scheme: dark){
     :root{
@@ -18,16 +18,25 @@
       --line:#37352e; --accent:#fb923c; --accent-bg:#3a2417;
       --ok:#4ade80; --ok-bg:#17301f; --soon:#f87171; --soon-bg:#3a1d1d;
       --pre:#93c5fd; --pre-bg:#1c2a45; --done:#8a8578; --done-bg:#2a2925;
-      --hot:#fbbf24; --hot-bg:#38300f;
+      --hot:#fbbf24; --hot-bg:#38300f; --tab-bg:#2c2b27;
     }
   }
   *{box-sizing:border-box}
   body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Noto Sans JP",sans-serif;background:var(--bg);color:var(--text);line-height:1.6}
   .wrap{max-width:760px;margin:0 auto;padding:20px 16px 48px}
-  header{margin-bottom:8px}
+  header{margin-bottom:14px}
   h1{font-size:22px;margin:0 0 4px}
   .updated{color:var(--muted);font-size:13px}
-  h2{font-size:18px;margin:28px 0 10px;padding-bottom:6px;border-bottom:2px solid var(--line)}
+  .tabs{display:flex;gap:8px;margin:0 0 16px}
+  .tab{flex:1;appearance:none;border:1px solid var(--line);background:var(--tab-bg);color:var(--text);
+    font:inherit;font-size:15px;font-weight:700;padding:10px 8px;border-radius:999px;cursor:pointer;
+    display:flex;align-items:center;justify-content:center;gap:7px}
+  .tab.active{background:var(--accent);border-color:var(--accent);color:#fff}
+  .tab .count{font-size:11px;font-weight:700;background:var(--card);color:var(--muted);
+    border-radius:999px;padding:1px 7px;min-width:22px;text-align:center}
+  .tab.active .count{background:rgba(255,255,255,.25);color:#fff}
+  .tab .dot{width:8px;height:8px;border-radius:50%;background:var(--soon);display:none}
+  .tab .dot.on{display:inline-block}
   .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:10px}
   .card.done{opacity:.62}
   .card.urgent{border-color:var(--soon);background:var(--soon-bg)}
@@ -54,10 +63,11 @@
     <h1>抽選まとめ | ポケカ＆ちいかわ</h1>
     <div class="updated" id="updated">読み込み中…</div>
   </header>
-  <h2>ポケカ抽選</h2>
-  <div id="pokeca"></div>
-  <h2>ちいかわ抽選・申込</h2>
-  <div id="chiikawa"></div>
+  <div class="tabs" role="tablist">
+    <button class="tab active" id="tab-pokeca" role="tab" data-cat="pokeca">ポケカ抽選<span class="count" id="count-pokeca">-</span><span class="dot" id="dot-pokeca"></span></button>
+    <button class="tab" id="tab-chiikawa" role="tab" data-cat="chiikawa">ちいかわ抽選・申込<span class="count" id="count-chiikawa">-</span><span class="dot" id="dot-chiikawa"></span></button>
+  </div>
+  <div id="list"></div>
   <footer>個人用のまとめページです。応募条件・日時は各公式ページで必ず最終確認してください。</footer>
 </div>
 <script>
@@ -86,7 +96,17 @@ function remainText(it, now){
   if(h >= 1) return "あと"+h+"時間";
   return "あと"+Math.max(1,Math.floor(diff/60000))+"分";
 }
-function render(el, items, now){
+function prepare(items, now){
+  return items.map(it=>({it, st:statusOf(it, now)})).sort((a,b)=>{
+    if(a.st.rank!==b.st.rank) return a.st.rank-b.st.rank;
+    const ae = a.it.end?new Date(a.it.end).getTime():Infinity;
+    const be = b.it.end?new Date(b.it.end).getTime():Infinity;
+    if(a.st.rank===3) return be-ae;
+    return ae-be;
+  });
+}
+function renderList(items, now){
+  const el = document.getElementById("list");
   if(!items.length){ el.innerHTML = '<div class="empty">現在表示できる情報はありません。</div>'; return; }
   el.innerHTML = items.map(({it, st}) => {
     const period = [];
@@ -111,22 +131,23 @@ function render(el, items, now){
       + '</div>';
   }).join("");
 }
+let DATA = null, NOW = Date.now(), current = "pokeca";
+function show(cat){
+  current = cat;
+  document.querySelectorAll(".tab").forEach(t=>t.classList.toggle("active", t.dataset.cat===cat));
+  if(location.hash !== "#"+cat) history.replaceState(null,"","#"+cat);
+  if(DATA) renderList(prepare(DATA.items.filter(it=>it.category===cat), NOW), NOW);
+}
+document.querySelectorAll(".tab").forEach(t=>t.addEventListener("click", ()=>show(t.dataset.cat)));
 fetch("data.json").then(r=>r.json()).then(data=>{
-  const now = Date.now();
+  DATA = data; NOW = Date.now();
   document.getElementById("updated").textContent = "最終更新: "+new Date(data.updatedAt).toLocaleString("ja-JP",{timeZone:"Asia/Tokyo"})+"（自動巡回チェックより）";
   for(const cat of ["pokeca","chiikawa"]){
-    const items = data.items
-      .filter(it=>it.category===cat)
-      .map(it=>({it, st:statusOf(it, now)}))
-      .sort((a,b)=>{
-        if(a.st.rank!==b.st.rank) return a.st.rank-b.st.rank;
-        const ae = a.it.end?new Date(a.it.end).getTime():Infinity;
-        const be = b.it.end?new Date(b.it.end).getTime():Infinity;
-        if(a.st.rank===3) return be-ae;
-        return ae-be;
-      });
-    render(document.getElementById(cat), items, now);
+    const items = prepare(data.items.filter(it=>it.category===cat), NOW);
+    document.getElementById("count-"+cat).textContent = items.filter(x=>x.st.key!=="done").length;
+    document.getElementById("dot-"+cat).classList.toggle("on", items.some(x=>x.st.key==="soon"));
   }
+  show(location.hash === "#chiikawa" ? "chiikawa" : "pokeca");
 }).catch(()=>{
   document.getElementById("updated").textContent = "データの読み込みに失敗しました。";
 });
