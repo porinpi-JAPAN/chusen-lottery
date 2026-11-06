@@ -269,12 +269,12 @@
       "category": "pokeca",
       "end": "2026-11-09T23:59:00+09:00",
       "hot": true,
-      "method": "ファミマオンラインで応募（会員登録が必要）",
-      "note": "当選発表は11/11。二次情報ベースのため、応募前に公式で条件を確認してください",
+      "method": "ファミマオンラインで応募（ファミペイ会員＆メルマガ登録必須）",
+      "note": "当選発表は11/11、購入期間は12/11〜12/24。二次情報ベースのため、応募前に公式で条件を確認してください",
       "shop": "ファミマオンライン",
       "start": "2026-11-04T00:00:00+09:00",
       "title": "「ハドウシーカー」BOX",
-      "url": "https://tcg-chusen.com/l/f3207e108b/"
+      "url": "https://famima-online.family.co.jp/item?itemCode=100163657179608640"
     },
     {
       "applied": false,
@@ -311,7 +311,67 @@
       "start": "2026-11-05T20:00:00+09:00",
       "title": "まじかるちいかわストア 11/6〜8入店分 二次先着予約",
       "url": "https://kaho-memo.com/entry/magical-chiikawa-store-bonbon-drop-seal-line-lottery-2026-11"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-06T21:30:00+09:00",
+      "hot": true,
+      "method": "Googleフォームで応募（ヤマシロヤ会員No.・メールアドレス必須、Googleアカウント必要）",
+      "note": "当選発表は11/7。決済は銀行振込のみ、送料別途950円〜。BOX相場は約21,000円（定価7,200円）で転売価値が高いです",
+      "shop": "ヤマシロヤ オンラインショップ",
+      "start": "2026-11-04T21:30:00+09:00",
+      "title": "「30th CELEBRATION」BOX",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSd6O9PhrqOHX4xxcRV4APYy_B_0OyCAW_ZkTa-Rp7htUleUjQ/viewform"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-06T23:59:00+09:00",
+      "hot": true,
+      "method": "店頭受取（オーサカ店・会員カード＋本人確認書類必須）",
+      "note": "当選発表は11/7予定。購入は11/7 11:00〜11/15にオーサカ店店頭で。BOX相場は約21,000円（定価7,200円）で転売価値が高いです",
+      "shop": "カードボックスオーサカ店",
+      "start": "2026-11-02T00:00:00+09:00",
+      "title": "「30th CELEBRATION」1BOX",
+      "url": "https://shoplottery.e-starbox.com/lottery/entry?code=mP3lHYSNT5"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-07T23:59:00+09:00",
+      "hot": true,
+      "method": "eストアで応募（Xの告知経由・二次情報）",
+      "note": "お一人様1個・7,200円。同店で「スタートデッキ100 バトルコレクション」再販分（5個セット・税込4,455円）も同締切。BOX相場は約21,000円（定価7,200円）で転売価値が高いです",
+      "shop": "トレカライザス eストア",
+      "start": null,
+      "title": "「30th CELEBRATION」BOX",
+      "url": "https://tcg-chusen.com/pokeka/30th-celebration/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-11T18:00:00+09:00",
+      "hot": true,
+      "method": "WEB抽選（Xの告知経由・二次情報）",
+      "note": "",
+      "shop": "晴れる屋2",
+      "start": "2026-11-05T00:00:00+09:00",
+      "title": "「ハドウシーカー」BOX",
+      "url": "https://gamenv.net/tc/hadoseeker/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-22T23:59:00+09:00",
+      "hot": true,
+      "method": "WEB抽選（Xフォロー＋リポスト＋応募ページにX ID記載・二次情報）",
+      "note": "",
+      "shop": "駿河屋通販",
+      "start": "2026-11-05T00:00:00+09:00",
+      "title": "「ハドウシーカー」BOX",
+      "url": "https://www.suruga-ya.jp/chuusenhanbai/60"
     }
   ],
-  "updatedAt": "2026-11-05T13:09:17+09:00"
+  "updatedAt": "2026-11-06T09:52:00+09:00"
 }
