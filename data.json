@@ -371,7 +371,79 @@
       "start": "2026-11-05T00:00:00+09:00",
       "title": "「ハドウシーカー」BOX",
       "url": "https://www.suruga-ya.jp/chuusenhanbai/60"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-08T23:59:00+09:00",
+      "hot": true,
+      "method": "エディオン公式抽選ページで応募（エディオン会員必須・SMS認証）",
+      "note": "対象は30th CELEBRATIONとストームエメラルダ。エディオンとトレカキャピタルはどちらか片方のみ応募可（両方応募は無効）。エディオンはネット配送または店頭受取（1BOX）。当選発表はネット配送11/13、店頭11/19。二次情報ベース。BOX相場は約21,000円（定価7,200円）で転売価値が高いです",
+      "shop": "エディオン",
+      "start": "2026-11-06T10:00:00+09:00",
+      "title": "「30th CELEBRATION」／「ストームエメラルダ」再販抽選",
+      "url": "https://edion-cp.com"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-08T23:59:00+09:00",
+      "hot": true,
+      "method": "トレカキャピタル公式抽選ページで応募（エディオン会員必須・SMS認証）",
+      "note": "対象は30th CELEBRATIONとストームエメラルダ。店頭受取のみ（2BOXまで、再販分はストームエメラルダのみ2BOX）。エディオンとトレカキャピタルはどちらか片方のみ応募可（両方応募は無効）。当選発表は11/19。二次情報ベース。BOX相場は約21,000円（定価7,200円）で転売価値が高いです",
+      "shop": "トレカキャピタル",
+      "start": "2026-11-06T10:00:00+09:00",
+      "title": "「30th CELEBRATION」／「ストームエメラルダ」再販抽選",
+      "url": "https://edion-cp.com"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-08T23:00:00+09:00",
+      "hot": true,
+      "method": "しまむらパークアプリ内の「会員証」→「会員特典に応募する」から応募（アプリ会員限定）",
+      "note": "対象は30th CELEBRATION（BOX税込7,150円）・ストームエメラルダ・メガブレイブ・メガシンフォニア。当選発表は11/9予定、購入期間は11/9 12:00〜11/14 23:00。二次情報ベース。BOX相場は約21,000円（定価7,200円）で転売価値が高いです",
+      "shop": "しまむらパーク",
+      "start": "2026-11-03T13:00:00+09:00",
+      "title": "「30th CELEBRATION」／「ストームエメラルダ」ほか",
+      "url": "https://cardchusen.com/shop/shimamura-park"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-08T23:00:00+09:00",
+      "hot": true,
+      "method": "しまむらパークアプリから応募（二次情報）",
+      "note": "30th CELEBRATION BOXほか。しまむらパークと同日程・同締切",
+      "shop": "バースデイ",
+      "start": "2026-11-03T13:00:00+09:00",
+      "title": "「30th CELEBRATION」BOXほか",
+      "url": "https://cardchusen.com/shop/shimamura-park"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-08T23:59:00+09:00",
+      "hot": true,
+      "method": "店頭レジで応募（ポイントカード会員限定）",
+      "note": "あべのキューズモール・なんば・アリオ八尾・高槻阪急スクエアの4店。なんば店はストームエメラルダも同締切。購入履歴条件あり（二次情報）。BOX相場は約21,000円（定価7,200円）で転売価値が高いです",
+      "shop": "ビックカメラ大阪4店",
+      "start": null,
+      "title": "「30th CELEBRATION」1BOX",
+      "url": "https://tcg-chusen.com/chain/biccamera/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-08T20:00:00+09:00",
+      "hot": true,
+      "method": "X告知経由で応募（二次情報）",
+      "note": "Xアカウント @honpo_bee001",
+      "shop": "Bee本舗大阪本店",
+      "start": null,
+      "title": "「30th CELEBRATION」",
+      "url": "https://pokeca-ken.com/lottery/"
     }
   ],
-  "updatedAt": "2026-11-06T09:52:00+09:00"
+  "updatedAt": "2026-11-07T09:58:00+09:00"
 }
