@@ -443,7 +443,115 @@
       "start": null,
       "title": "「30th CELEBRATION」",
       "url": "https://pokeca-ken.com/lottery/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-08T21:30:00+09:00",
+      "hot": true,
+      "method": "Googleフォームで応募（ヤマシロヤ会員No.・メールアドレス必須、Googleアカウント必要）",
+      "note": "当選発表は11/14。決済は銀行振込のみ、送料別途950円〜。",
+      "shop": "ヤマシロヤ オンラインショップ",
+      "start": "2026-11-06T21:30:00+09:00",
+      "title": "「ハドウシーカー」BOX",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSf0PUW0GJ01ru7vqEfiXY_x_AVCJVYpu2qfU0odJfHKZvC65w/viewform"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-08T21:30:00+09:00",
+      "hot": true,
+      "method": "Xの告知経由で応募（二次情報）",
+      "note": "税込6,000円・お一人様1点のみ",
+      "shop": "トレカショップフロント",
+      "start": null,
+      "title": "「ストームエメラルダ」1BOX",
+      "url": "https://tcg-chusen.com/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-12T17:59:00+09:00",
+      "hot": true,
+      "method": "ゲオオンラインで応募（二次情報）",
+      "note": "30th CELEBRATIONは再販分",
+      "shop": "ゲオ",
+      "start": "2026-11-09T11:00:00+09:00",
+      "title": "「ハドウシーカー」／「30th CELEBRATION」（再販）",
+      "url": "https://geo-online.co.jp/news/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-09T23:59:00+09:00",
+      "hot": true,
+      "method": "BASE店で応募（二次情報）",
+      "note": "1BOX 27,500円（税込）。30th CELEBRATION FUTURISTIC BOXは転売価値が高いです",
+      "shop": "トレカショップ「DANDAN」BASE店",
+      "start": null,
+      "title": "「30th CELEBRATION FUTURISTIC BOX」1BOX",
+      "url": "https://tcg-chusen.com/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-10T12:00:00+09:00",
+      "hot": true,
+      "method": "Tokyo Otaku Modeで応募（二次情報）",
+      "note": "税込6,000円＋送料",
+      "shop": "Tokyo Otaku Mode",
+      "start": null,
+      "title": "「ストームエメラルダ」BOX",
+      "url": "https://tcg-chusen.com/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-11T23:59:00+09:00",
+      "hot": true,
+      "method": "通販サイトで応募（利用者限定・二次情報）",
+      "note": "税込5,500円・販売数12個・送料別途600円",
+      "shop": "ホビビ通販部",
+      "start": null,
+      "title": "「スペシャルデッキセットMEGA」",
+      "url": "https://tcg-chusen.com/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-12T23:59:00+09:00",
+      "hot": true,
+      "method": "Xの告知経由で応募（二次情報）",
+      "note": "定価抽選販売・お一人様1BOXまで。BOX相場は約21,000円（定価7,200円）で転売価値が高いです",
+      "shop": "DMMマイカ",
+      "start": null,
+      "title": "「30th CELEBRATION」BOX",
+      "url": "https://tcg-chusen.com/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-08T19:59:00+09:00",
+      "hot": true,
+      "method": "Googleフォームで応募（店頭受取・二次情報）",
+      "note": "心斎橋アメリカ村店。お一人様1点",
+      "shop": "MINT GAMES 心斎橋アメリカ村店",
+      "start": null,
+      "title": "「スペシャルデッキセットMEGA」",
+      "url": "https://tcg-chusen.com/"
+    },
+    {
+      "applied": false,
+      "category": "chiikawa",
+      "end": "2026-11-08T23:59:00+09:00",
+      "hot": true,
+      "method": "LINEアプリ「ちいかわらんど」から入店チケット抽選申込",
+      "note": "対象はボンボンドロップシール15種（ジュエル4種・ミニ8種・寿司・らんど・Baby）。16店舗（京都四条河原町・大阪梅田・心斎橋含む）。当選発表は11/9中。二次先着は11/9〜11/11の各20:00〜（店舗別・空き枠のみ）。入店チケットは購入を保証しません。LINE ID @786sasix（二次情報）。二次情報ベース",
+      "shop": "ちいかわらんど16店舗（11/14入店分）",
+      "start": "2026-11-06T10:00:00+09:00",
+      "title": "ボンボンドロップシール15種 入店チケット LINE抽選",
+      "url": "https://kaho-memo.com/entry/chiikawa-land-bonbon-drop-seal-line-lottery-2026-11-14"
     }
   ],
-  "updatedAt": "2026-11-07T09:58:00+09:00"
+  "updatedAt": "2026-11-08T09:55:00+09:00"
 }
