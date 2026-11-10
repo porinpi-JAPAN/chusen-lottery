@@ -158,18 +158,6 @@
     },
     {
       "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-02T16:59:00+09:00",
-      "hot": false,
-      "method": "",
-      "note": "受付終了",
-      "shop": "ポケモンセンターオンライン",
-      "start": null,
-      "title": "ピカピカボックス2027",
-      "url": "https://www.pokemoncenter-online.com/pokemon-card-game/"
-    },
-    {
-      "applied": false,
       "category": "chiikawa",
       "end": null,
       "hot": true,
@@ -203,18 +191,6 @@
       "start": "2026-11-06T11:00:00+09:00",
       "title": "ちいかわマーケット新商品発売（クリスマスの精マスコット・Kiramekkoテディ・リースほか）",
       "url": "https://chiikawamarket.jp/collections/newitems"
-    },
-    {
-      "applied": true,
-      "category": "chiikawa",
-      "end": "2026-11-02T12:00:00+09:00",
-      "hot": false,
-      "method": "ちいかわマーケットで抽選応募",
-      "note": "当選連絡は2026-11-04以降。当選者の注文期間は2026-11-06 10:00〜",
-      "shop": "ちいかわマーケット",
-      "start": null,
-      "title": "抽選販売「動く！？ツリーなうさぎぬいぐるみ」",
-      "url": "https://chiikawamarket.jp/pages/4571609413028-lottery"
     },
     {
       "applied": false,
@@ -575,7 +551,43 @@
       "start": "2026-11-08T07:00:00+09:00",
       "title": "「30th CELEBRATION」シュリンク付き1BOX",
       "url": "https://shop.tcgsuch.com/items/165383210"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-15T23:59:00+09:00",
+      "hot": true,
+      "method": "平和堂HOPアプリで応募",
+      "note": "対象は「ハドウシーカー」と「30th CELEBRATION カードセット」。条件は①2026/9/21〜10/20に平和堂直営レジでHOPアプリ会員証を提示して購入した履歴があること、②11/13時点でHOPアプリ会員登録済みであること（両方必須）。当選発表はハドウシーカー11/26午前中、30thカードセット12/3午前中（HOPアプリ内）。受付開始は11/14午前中（開始時刻は未発表）。二次情報ベースのため、応募前にHOPアプリで条件を確認してください。30thは転売価値が高いです",
+      "shop": "平和堂",
+      "start": "2026-11-14T00:00:00+09:00",
+      "title": "「ハドウシーカー」／「30th CELEBRATION カードセット」",
+      "url": "https://www.heiwado.jp"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-11T23:59:00+09:00",
+      "hot": true,
+      "method": "LivePocketで応募（会員登録・ログイン必要、お一人様1回、応募無料）",
+      "note": "当選発表は11/12まで、購入期限は11/16 23:59。当選後7,200円（税込）でECサイトで購入。BOX相場は約21,105円（11/9時点）で転売価値が高いです。LivePocketは11/11未明にシステムメンテナンス予定のため、応募は11/10中に済ませるのが安心です",
+      "shop": "Nexus Trading Cards",
+      "start": "2026-11-03T23:00:00+09:00",
+      "title": "「30th CELEBRATION」BOX",
+      "url": "https://livepocket.jp/e/a35_-"
+    },
+    {
+      "applied": false,
+      "category": "chiikawa",
+      "end": "2026-11-14T18:00:00+09:00",
+      "hot": false,
+      "method": "ちいかわもぐもぐ本舗 LINE公式アカウントで申込（入店希望日ごとに1回ずつ申込可、当選はお一人様最大1回）",
+      "note": "結果発表は11/16。11/18〜2027/1/3は事前予約（抽選）・完全入れ替え制・完全キャッシュレス。限定マスコットセット5,280円あり。LINEアカウント名「ちいかわもぐもぐ本舗」",
+      "shop": "ちいかわベビーカステラ 京都錦店（11/18オープン）",
+      "start": "2026-11-11T18:00:00+09:00",
+      "title": "ちいかわベビーカステラ 京都錦店 入店抽選（第2回・11/23〜29入店分）",
+      "url": "https://www.chiikawamogumogu.jp/2026/10/28/post-2535/"
     }
   ],
-  "updatedAt": "2026-11-09T09:51:00+09:00"
+  "updatedAt": "2026-11-10T09:54:20+09:00"
 }
