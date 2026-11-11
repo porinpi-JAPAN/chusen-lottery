@@ -75,42 +75,6 @@
     {
       "applied": false,
       "category": "pokeca",
-      "end": "2026-11-03T22:00:00+09:00",
-      "hot": false,
-      "method": "店頭抽選",
-      "note": "",
-      "shop": "カードボックス京都店",
-      "start": null,
-      "title": "「ハドウシーカー」1BOX予約権",
-      "url": "https://cardchusen.com/shop/chain/cardbox"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-03T23:59:00+09:00",
-      "hot": false,
-      "method": "店頭抽選",
-      "note": "",
-      "shop": "カードボックスオーサカ店",
-      "start": null,
-      "title": "「ハドウシーカー」1BOX／「スペシャルデッキセットMEGA」",
-      "url": "https://cardchusen.com/shop/chain/cardbox"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-03T23:59:00+09:00",
-      "hot": true,
-      "method": "店頭受取限定・会員限定",
-      "note": "",
-      "shop": "TCGshop193各店",
-      "start": null,
-      "title": "「スペシャルデッキセットMEGA」",
-      "url": "https://cardchusen.com/shop/tcgshop193"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
       "end": "2026-11-06T23:59:00+09:00",
       "hot": true,
       "method": "コジマ公式アプリで応募",
@@ -587,7 +551,55 @@
       "start": "2026-11-11T18:00:00+09:00",
       "title": "ちいかわベビーカステラ 京都錦店 入店抽選（第2回・11/23〜29入店分）",
       "url": "https://www.chiikawamogumogu.jp/2026/10/28/post-2535/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-12T19:59:00+09:00",
+      "hot": true,
+      "method": "キッズリパブリックアプリ「お店」タブから応募（iAEON ID・アプリ会員登録必要）",
+      "note": "本州・四国限定・店頭受取。お一人様1BOX。当選発表は11/26 12:00以降順次（当選クーポン配信）、購入は11/27〜12/2。二次情報ベースのため、応募前にアプリで条件を確認してください",
+      "shop": "イオンキッズリパブリック",
+      "start": "2026-11-06T11:00:00+09:00",
+      "title": "「ハドウシーカー」",
+      "url": "https://play.google.com/store/apps/details?id=jp.aeonretail.aeon.kidsrepublic&hl=en_US"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-12T19:00:00+09:00",
+      "hot": false,
+      "method": "ジョーシンWebショップの応募ページから応募（店頭受取・二次情報）",
+      "note": "税込5,500円。発売日は11/13、結果発表は11/13。対象店舗は公式の応募ページで要確認",
+      "shop": "Joshin",
+      "start": null,
+      "title": "「スペシャルデッキセットMEGA」",
+      "url": "https://tcg-chusen.com/pokeka/special-deck-set-mega/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-12T23:59:00+09:00",
+      "hot": true,
+      "method": "オンラインで応募（店頭受取・二次情報）",
+      "note": "対象店舗に大阪の店舗あり（日本橋本店・なんば なんさん通り店・オタロード中央店・くずはモール・泉佐野店・ららぽーと堺・ららぽーと甲子園・神戸三宮店ほか）。受付開始日未確認。応募前に公式で対象店舗・条件を確認してください",
+      "shop": "ドラゴンスター各店",
+      "start": null,
+      "title": "「ハドウシーカー」",
+      "url": "https://mikeco-room.com/hadoseeker-lottery/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-12T23:59:00+09:00",
+      "hot": false,
+      "method": "通販サイトで応募（二次情報）",
+      "note": "税込5,500円。発売日は11/13",
+      "shop": "CARD CREW（カードクルー）通販",
+      "start": null,
+      "title": "「スペシャルデッキセットMEGA」",
+      "url": "https://cardchusen.com/pokeka/special-deck-set-mega-3"
     }
   ],
-  "updatedAt": "2026-11-10T09:54:20+09:00"
+  "updatedAt": "2026-11-11T09:51:45+09:00"
 }
