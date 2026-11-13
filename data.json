@@ -3,78 +3,6 @@
     {
       "applied": false,
       "category": "pokeca",
-      "end": "2026-11-04T13:59:00+09:00",
-      "hot": true,
-      "method": "あみあみ通販サイトで応募",
-      "note": "",
-      "shop": "あみあみ",
-      "start": null,
-      "title": "「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」／「ハドウシーカー」BOX",
-      "url": "https://form.amiami.jp/draw20261030"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-04T23:59:00+09:00",
-      "hot": true,
-      "method": "ヤマダデジタル会員アプリで応募",
-      "note": "",
-      "shop": "ヤマダデンキ",
-      "start": "2026-11-02T23:00:00+09:00",
-      "title": "「ハドウシーカー」1BOX",
-      "url": "https://www.yamada-denki.jp/service/pointservice/digital-kaiin.html"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-04T23:59:00+09:00",
-      "hot": true,
-      "method": "店頭受取のみ（秋葉原・ザザシティ浜松・名駅・大須・日本橋・椿）",
-      "note": "",
-      "shop": "TCGshop193",
-      "start": null,
-      "title": "「30th CELEBRATION カードセット」",
-      "url": "https://cardchusen.com/shop/tcgshop193"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-04T23:59:00+09:00",
-      "hot": true,
-      "method": "通販サイトで応募",
-      "note": "",
-      "shop": "カードボックス通販／CBトレコロ",
-      "start": null,
-      "title": "「スペシャルデッキセットMEGA」",
-      "url": "https://cardchusen.com/shop/chain/cardbox"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-04T23:59:00+09:00",
-      "hot": true,
-      "method": "利用者限定抽選",
-      "note": "",
-      "shop": "ホビビ通販部",
-      "start": null,
-      "title": "「30th CELEBRATION」BOX／「プレミアムデッキセット エーフィ・ブラッキー」／「ストームエメラルダ」",
-      "url": "https://www.cardchusen.com/shop/hobibi-tsuhan"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-05T17:59:00+09:00",
-      "hot": true,
-      "method": "Web抽選（アプリ連携が必要）",
-      "note": "公式ページで直接確認できていないため、応募前にアプリ側で条件を確認してください",
-      "shop": "ゲオ",
-      "start": "2026-11-02T11:00:00+09:00",
-      "title": "「スペシャルデッキセットMEGA」発売日当日分",
-      "url": "https://geo-online.co.jp/news/"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
       "end": "2026-11-06T23:59:00+09:00",
       "hot": true,
       "method": "コジマ公式アプリで応募",
@@ -146,18 +74,6 @@
     },
     {
       "applied": false,
-      "category": "sales",
-      "end": null,
-      "hot": true,
-      "method": "オンライン先着販売（売り切れ次第終了）",
-      "note": "クリスマス系の新商品が中心。人気マスコットは発売直後に売り切れる見込みの取り合い枠です",
-      "shop": "ちいかわマーケット",
-      "start": "2026-11-06T11:00:00+09:00",
-      "title": "ちいかわマーケット新商品発売（クリスマスの精マスコット・Kiramekkoテディ・リースほか）",
-      "url": "https://chiikawamarket.jp/collections/newitems"
-    },
-    {
-      "applied": false,
       "category": "chiikawa",
       "end": "2026-12-25T23:59:00+09:00",
       "hot": false,
@@ -167,42 +83,6 @@
       "start": "2026-11-24T00:00:00+09:00",
       "title": "ちいかわクリスマスマーケット2026（イベント）",
       "url": "https://makuharishintoshin.aeonmall.jp/event/b272076a-603e-4575-ab1c-8de6bbcbf4fd"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-04T23:59:00+09:00",
-      "hot": true,
-      "method": "Web抽選（当選者は通販で購入）",
-      "note": "当選発表は11/5予定。お一人様1個・5,500円",
-      "shop": "ドラゴンスター通販",
-      "start": "2026-11-02T00:00:00+09:00",
-      "title": "「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」",
-      "url": "https://dorasuta.membercard.jp/lottery"
-    },
-    {
-      "applied": false,
-      "category": "chiikawa",
-      "end": "2026-11-05T00:00:00+09:00",
-      "hot": true,
-      "method": "LUCUAメンバーズカード会員（WESTER ID連携済み）限定の事前抽選",
-      "note": "プレオープン11/18〜23分。当選発表は11/13午後。詳細は公式特設サイトで確認してください",
-      "shop": "ちいかわパークストア大阪（LUCUA SOUTH 11階）",
-      "start": "2026-10-29T12:00:00+09:00",
-      "title": "ちいかわパークストア大阪 プレオープン 2次募集（追加募集）",
-      "url": "https://www.lucua.jp/special/south-open/"
-    },
-    {
-      "applied": false,
-      "category": "chiikawa",
-      "end": "2026-11-04T23:59:00+09:00",
-      "hot": false,
-      "method": "LINE購入券抽選（二次情報）",
-      "note": "11/9〜12入店分。当選発表は11/5中。二次先着は11/6 20:00〜（空き枠のみ）",
-      "shop": "まじかるちいかわストア",
-      "start": "2026-11-02T10:00:00+09:00",
-      "title": "「まじかるちいかわ ボンボンドロップシール ジュエル」LINE購入券抽選",
-      "url": "https://ameblo.jp/menublog/entry-12983419621.html"
     },
     {
       "applied": false,
@@ -524,7 +404,7 @@
       "method": "平和堂HOPアプリで応募",
       "note": "対象は「ハドウシーカー」と「30th CELEBRATION カードセット」。条件は①2026/9/21〜10/20に平和堂直営レジでHOPアプリ会員証を提示して購入した履歴があること、②11/13時点でHOPアプリ会員登録済みであること（両方必須）。当選発表はハドウシーカー11/26午前中、30thカードセット12/3午前中（HOPアプリ内）。受付開始は11/14午前中（開始時刻は未発表）。二次情報ベースのため、応募前にHOPアプリで条件を確認してください。30thは転売価値が高いです",
       "shop": "平和堂",
-      "start": "2026-11-14T00:00:00+09:00",
+      "start": "2026-11-14T09:00:00+09:00",
       "title": "「ハドウシーカー」／「30th CELEBRATION カードセット」",
       "url": "https://www.heiwado.jp"
     },
@@ -599,7 +479,91 @@
       "start": null,
       "title": "「スペシャルデッキセットMEGA」",
       "url": "https://cardchusen.com/pokeka/special-deck-set-mega-3"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-18T23:59:00+09:00",
+      "hot": true,
+      "method": "楽天ブックスの抽選ページで応募（楽天会員・住所登録必須）",
+      "note": "対象は「ハドウシーカー」「スペシャルデッキセットMEGA」「30th CELEBRATION」「30th CELEBRATION カードセット9種」「ストームエメラルダ」「スターターセットex イーブイex」「メガシンフォニア」「メガブレイブ」。商品ごとに申込可だが当選は1人1点まで。支払いはクレジットカード決済のみ。購入期間は11/29 10:00〜12/3 23:59、当落は販売開始日までにメール通知。30thは転売価値が高いです",
+      "shop": "楽天ブックス",
+      "start": "2026-11-13T10:00:00+09:00",
+      "title": "「ハドウシーカー」／「スペシャルデッキセットMEGA」／「30th CELEBRATION」ほか MEGAシリーズ",
+      "url": "https://books.rakuten.co.jp/rb/18664603/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-13T11:59:00+09:00",
+      "hot": true,
+      "method": "イトーヨーカドーネット通販の抽選ページで応募（7ID会員登録・電話番号認証が必要）",
+      "note": "当選後は通販で購入し自宅へ郵送。二次情報ベースのため、応募前に公式で条件を確認してください",
+      "shop": "イトーヨーカドーネット通販",
+      "start": null,
+      "title": "「ハドウシーカー」1BOX",
+      "url": "https://tcg-chusen.com/chain/itoyokado/pokeka/hadou-seeker/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-15T23:59:00+09:00",
+      "hot": true,
+      "method": "エディオン公式抽選ページで応募（エディオン会員必須・SMS認証）",
+      "note": "エディオンとトレカキャピタルはどちらか片方のみ応募可（両方応募は無効）。ネット配送または店頭受取。店頭受取の当選発表は11/26中、購入は11/27〜11/30。二次情報ベース。アプリ会員は会員番号欄に999999999999（9を12桁）を入力",
+      "shop": "エディオン",
+      "start": "2026-11-13T10:00:00+09:00",
+      "title": "「ハドウシーカー」",
+      "url": "https://edion-cp.com"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-15T23:59:00+09:00",
+      "hot": true,
+      "method": "トレカキャピタル公式抽選ページで応募（エディオン会員必須・SMS認証）",
+      "note": "店頭受取のみ。エディオンとトレカキャピタルはどちらか片方のみ応募可（両方応募は無効）。当選発表は11/26中、購入は11/27〜11/30。二次情報ベース",
+      "shop": "トレカキャピタル",
+      "start": "2026-11-13T10:00:00+09:00",
+      "title": "「ハドウシーカー」",
+      "url": "https://edion-cp.com"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-23T23:59:00+09:00",
+      "hot": true,
+      "method": "通販サイトで応募（二次情報）",
+      "note": "受付開始日未確認。応募前に公式で条件を確認してください",
+      "shop": "カードボックス通販／CBトレコロ",
+      "start": null,
+      "title": "「ハドウシーカー」1BOX",
+      "url": "https://www.torecolo.jp/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-20T23:59:00+09:00",
+      "hot": true,
+      "method": "Googleフォームで応募（店頭受取・二次情報）",
+      "note": "大阪府の店舗。お一人様1BOX。応募前に公式の告知で条件を確認してください",
+      "shop": "カードショップ黄鶏屋",
+      "start": null,
+      "title": "「ハドウシーカー」1BOX",
+      "url": "https://cardchusen.com/shop/kidoriya"
+    },
+    {
+      "applied": false,
+      "category": "sales",
+      "end": null,
+      "hot": true,
+      "method": "オンライン先着販売（売り切れ次第終了）",
+      "note": "第1弾は11/27発売。ナースなマスコット各1,980円ほか。1会計につき各1点まで。ちいかわらんど11店・催事8会場でも同日発売。第2弾は12/11発売予定。人気マスコットは発売直後に売り切れる見込みの取り合い枠です",
+      "shop": "ちいかわマーケット",
+      "start": "2026-11-27T11:00:00+09:00",
+      "title": "「ちいかわクリニック」第1弾（ナースなマスコットほか）",
+      "url": "https://chiikawamarket.jp/collections/newitems"
     }
   ],
-  "updatedAt": "2026-11-11T09:51:45+09:00"
+  "updatedAt": "2026-11-13T09:55:00+09:00"
 }
