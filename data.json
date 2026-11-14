@@ -3,30 +3,6 @@
     {
       "applied": false,
       "category": "pokeca",
-      "end": "2026-11-06T23:59:00+09:00",
-      "hot": true,
-      "method": "コジマ公式アプリで応募",
-      "note": "",
-      "shop": "コジマ",
-      "start": null,
-      "title": "「スペシャルデッキセットMEGA」",
-      "url": "https://www.kojima.net/shop/app/kojima_appli.html"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-06T23:59:00+09:00",
-      "hot": true,
-      "method": "通販サイトで応募",
-      "note": "",
-      "shop": "トレカプラザ55通販店",
-      "start": null,
-      "title": "「30th CELEBRATION カードセット」二次抽選",
-      "url": "https://chusen-cal.com/shop/toreca-plaza55-online"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
       "end": "2026-11-09T23:59:00+09:00",
       "hot": true,
       "method": "セブンネットで応募（購入履歴の条件あり）",
@@ -47,18 +23,6 @@
       "start": "2026-11-06T16:00:00+09:00",
       "title": "「ハドウシーカー」追加抽選",
       "url": "https://www.pokemoncenter-online.com/pokemon-card-game/"
-    },
-    {
-      "applied": false,
-      "category": "chiikawa",
-      "end": null,
-      "hot": true,
-      "method": "LINEアプリ「ちいかわらんど入店予約」から先着申込（空き枠のみ・埋まり次第終了）",
-      "note": "一次抽選（10/30〜11/1申込）は終了・発表済み。二次先着は地域別で、北海道・東北・中国・九州は11/2 20:00〜、関東は11/4 20:00〜。対象日は店舗により11/6〜8（新商品発売日）",
-      "shop": "ちいかわらんど各店（近畿・中部）",
-      "start": "2026-11-03T20:00:00+09:00",
-      "title": "ちいかわらんど入店予約 二次先着募集（11/6新商品発売分）",
-      "url": "https://chiifan.com/store"
     },
     {
       "applied": false,
@@ -119,42 +83,6 @@
       "start": "2026-11-06T10:00:00+09:00",
       "title": "「ハドウシーカー」BOX",
       "url": "https://www.majica-net.com/app/"
-    },
-    {
-      "applied": false,
-      "category": "chiikawa",
-      "end": null,
-      "hot": true,
-      "method": "LINEアプリ「まじかるちいかわストア公式LINE」から先着申込（空き枠のみ・埋まり次第終了）",
-      "note": "11/6〜8の新商品エリア（ボンボンドロップシール ジュエル新作4種）への入店チケット。購入は保証されません。二次情報ベース",
-      "shop": "まじかるちいかわストア（新宿マルイ・梅田HEP FIVE・名古屋パルコ）",
-      "start": "2026-11-05T20:00:00+09:00",
-      "title": "まじかるちいかわストア 11/6〜8入店分 二次先着予約",
-      "url": "https://kaho-memo.com/entry/magical-chiikawa-store-bonbon-drop-seal-line-lottery-2026-11"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-06T21:30:00+09:00",
-      "hot": true,
-      "method": "Googleフォームで応募（ヤマシロヤ会員No.・メールアドレス必須、Googleアカウント必要）",
-      "note": "当選発表は11/7。決済は銀行振込のみ、送料別途950円〜。BOX相場は約21,000円（定価7,200円）で転売価値が高いです",
-      "shop": "ヤマシロヤ オンラインショップ",
-      "start": "2026-11-04T21:30:00+09:00",
-      "title": "「30th CELEBRATION」BOX",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSd6O9PhrqOHX4xxcRV4APYy_B_0OyCAW_ZkTa-Rp7htUleUjQ/viewform"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-06T23:59:00+09:00",
-      "hot": true,
-      "method": "店頭受取（オーサカ店・会員カード＋本人確認書類必須）",
-      "note": "当選発表は11/7予定。購入は11/7 11:00〜11/15にオーサカ店店頭で。BOX相場は約21,000円（定価7,200円）で転売価値が高いです",
-      "shop": "カードボックスオーサカ店",
-      "start": "2026-11-02T00:00:00+09:00",
-      "title": "「30th CELEBRATION」1BOX",
-      "url": "https://shoplottery.e-starbox.com/lottery/entry?code=mP3lHYSNT5"
     },
     {
       "applied": false,
@@ -563,7 +491,79 @@
       "start": "2026-11-27T11:00:00+09:00",
       "title": "「ちいかわクリニック」第1弾（ナースなマスコットほか）",
       "url": "https://chiikawamarket.jp/collections/newitems"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-18T23:59:00+09:00",
+      "hot": true,
+      "method": "LivePocketで応募（お一人様1回のみ）",
+      "note": "当選発表は11/25 18:00頃、購入は11/27〜29に指定店舗の店頭で。対象店舗に京都四条河原町・大阪梅田・ららぽーとEXPOCITY・堺鉄砲町あり。大阪梅田店では「30th CELEBRATION」の再販分も同時抽選。公式ページで確認済み",
+      "shop": "キデイランド各店",
+      "start": "2026-11-16T10:00:00+09:00",
+      "title": "「ハドウシーカー」",
+      "url": "https://livepocket.jp/p/hpmzs"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-15T20:00:00+09:00",
+      "hot": true,
+      "method": "Googleフォームで応募（通販サイト会員登録必須・お一人様1回限り）",
+      "note": "受付は11/13〜11/15 20:00。税込6,000円＋送料。当選発表は11/27、購入は11/27〜29。公式フォームで確認済み",
+      "shop": "Bee本舗通販サイト",
+      "start": null,
+      "title": "「ハドウシーカー」1BOX",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeqszii9q7R_hP_QeErXpnx2ocz7W9ocCQOQELRSRWrbzY09A/viewform"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-15T23:59:00+09:00",
+      "hot": true,
+      "method": "通販サイトで応募（購入履歴1回以上の会員限定・会員ログイン必要）",
+      "note": "受付開始日未確認。プレミアムデッキセットは転売価値が高いです。公式ページで確認済み",
+      "shop": "福福トレカ",
+      "start": null,
+      "title": "「30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー」",
+      "url": "https://pokemon.fukufukutoreka.com/lottery/29"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-17T23:59:00+09:00",
+      "hot": true,
+      "method": "通販サイトで応募（二次情報）",
+      "note": "受付開始日未確認。30th カードセットは転売価値が高いです。応募前に公式で条件を確認してください",
+      "shop": "カードボックス通販／CBトレコロ",
+      "start": null,
+      "title": "「30th CELEBRATION カードセット」9種セット",
+      "url": "https://www.torecolo.jp/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-15T23:59:00+09:00",
+      "hot": true,
+      "method": "X告知経由で応募（店頭受取・二次情報）",
+      "note": "お一人様1BOX。受付開始日未確認。30thは転売価値が高いです。応募前に公式の告知で条件を確認してください",
+      "shop": "カードラボ オタロード本店",
+      "start": null,
+      "title": "「30th CELEBRATION」1BOX（再抽選販売）",
+      "url": "https://tcg-chusen.com/"
+    },
+    {
+      "applied": false,
+      "category": "chiikawa",
+      "end": "2026-11-15T23:59:00+09:00",
+      "hot": true,
+      "method": "LINEアプリで申込（顔写真＋氏名登録必須、1日1人1回・1会場1回まで）",
+      "note": "当選発表は11/16中（申込ページのマイチケットで確認）。二次先着は会場別で11/16〜18の各20:00〜（大阪梅田は11/17 20:00〜）。12/1〜10の入店分は各日前日18:00から先着。会場は東京駅・銀座・名古屋・大阪梅田・広島・札幌・仙台・熊本。申込は会場ページのボタンからLINEへ。ちいかわらんど11店の入店チケットは別途後日案内。二次情報ベース",
+      "shop": "ちいかわクリニック 8会場（大阪梅田ほか）",
+      "start": "2026-11-13T10:00:00+09:00",
+      "title": "ちいかわクリニック 国内8会場 入店抽選（11/27〜30入店分）",
+      "url": "https://chiikawa-info.jp/p26/chiikawaclinic/umeda.html"
     }
   ],
-  "updatedAt": "2026-11-13T09:55:00+09:00"
+  "updatedAt": "2026-11-14T10:05:00+09:00"
 }
