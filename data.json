@@ -27,18 +27,6 @@
     {
       "applied": false,
       "category": "chiikawa",
-      "end": "2026-11-07T18:00:00+09:00",
-      "hot": false,
-      "method": "ちいかわもぐもぐ本舗 LINE公式アカウントで申込（11/18〜22の入店分）",
-      "note": "結果発表は11/9。11/18〜2027/1/3は事前予約（抽選）・完全入れ替え制で、入店週ごとに受付が分かれています。限定マスコットセット5,280円あり（まとめサイト情報）",
-      "shop": "ちいかわベビーカステラ 京都錦店（11/18オープン）",
-      "start": "2026-11-04T18:00:00+09:00",
-      "title": "ちいかわベビーカステラ 京都錦店 入店抽選",
-      "url": "https://www.chiikawamogumogu.jp/stores/castella/"
-    },
-    {
-      "applied": false,
-      "category": "chiikawa",
       "end": "2026-12-25T23:59:00+09:00",
       "hot": false,
       "method": "会場イベント（会場限定グッズあり）",
@@ -83,18 +71,6 @@
       "start": "2026-11-06T10:00:00+09:00",
       "title": "「ハドウシーカー」BOX",
       "url": "https://www.majica-net.com/app/"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-07T23:59:00+09:00",
-      "hot": true,
-      "method": "eストアで応募（Xの告知経由・二次情報）",
-      "note": "お一人様1個・7,200円。同店で「スタートデッキ100 バトルコレクション」再販分（5個セット・税込4,455円）も同締切。BOX相場は約21,000円（定価7,200円）で転売価値が高いです",
-      "shop": "トレカライザス eストア",
-      "start": null,
-      "title": "「30th CELEBRATION」BOX",
-      "url": "https://tcg-chusen.com/pokeka/30th-celebration/"
     },
     {
       "applied": false,
@@ -563,7 +539,139 @@
       "start": "2026-11-13T10:00:00+09:00",
       "title": "ちいかわクリニック 国内8会場 入店抽選（11/27〜30入店分）",
       "url": "https://chiikawa-info.jp/p26/chiikawaclinic/umeda.html"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-20T23:59:00+09:00",
+      "hot": true,
+      "method": "コジマ公式アプリから応募（店頭受取）",
+      "note": "受付は11/13〜11/20 23:59。当選発表は11/27、購入は11/27〜29。条件は2025/11/1〜2026/11/20にコジマ（コジマネット含む）で税込5,000円以上の購入履歴（コジマアプリポイントカード）。二次情報ベースのため、応募前に公式アプリで条件を確認してください",
+      "shop": "コジマ",
+      "start": "2026-11-13T00:00:00+09:00",
+      "title": "「ハドウシーカー」1BOX",
+      "url": "https://gamenv.net/tc/hado_kojima/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-15T23:59:00+09:00",
+      "hot": true,
+      "method": "WEB抽選受付（店頭受取・二次情報）",
+      "note": "京都・大阪の対象店舗はアバンティ京都・なんば・オタロード本店・天王寺・大阪日本橋ほか。チェーン全体の案内では11/19締切の表記もあり、店舗別ページでは11/15締切のため、応募前に公式の告知で締切・条件を確認してください",
+      "shop": "カードラボ各店（京都・大阪）",
+      "start": null,
+      "title": "「ハドウシーカー」",
+      "url": "https://tcg-chusen.com/store/cardlabo-814ec/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-15T19:59:00+09:00",
+      "hot": true,
+      "method": "Googleフォームで応募（店頭受取・二次情報）",
+      "note": "30th カードセットは転売価値が高いです。応募前に公式の告知で条件を確認してください",
+      "shop": "MINT GAMES 心斎橋アメリカ村店",
+      "start": null,
+      "title": "「30th CELEBRATION カードセット」9種セット",
+      "url": "https://tcg-chusen.com/chain/mint/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-15T23:00:00+09:00",
+      "hot": true,
+      "method": "LivePocketで応募（店頭受取・二次情報）",
+      "note": "大阪・枚方ベルパルレ店。応募前に公式の告知で条件を確認してください",
+      "shop": "TSUTAYA枚方ベルパルレ店",
+      "start": null,
+      "title": "「ハドウシーカー」BOX",
+      "url": "https://tcg-chusen.com/pokeka/osaka/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-17T23:59:00+09:00",
+      "hot": true,
+      "method": "Xフォロー＆リポストで応募（店頭受取・二次情報）",
+      "note": "7,200円・36名様。30thは転売価値が高いです。応募前に公式の告知で条件を確認してください",
+      "shop": "NカードLOOP なんば店",
+      "start": null,
+      "title": "「30th CELEBRATION」1BOX",
+      "url": "https://tcg-chusen.com/pokeka/osaka/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-16T23:59:00+09:00",
+      "hot": true,
+      "method": "BASE店で応募（二次情報）",
+      "note": "7,200円・未開封シュリンク付き1BOX。30thは転売価値が高いです。応募前に公式で条件を確認してください",
+      "shop": "トレカスタイル（トレカショップDANDAN BASE店）",
+      "start": null,
+      "title": "「30th CELEBRATION」1BOX",
+      "url": "https://tcg-chusen.com/pokeka/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-19T23:59:00+09:00",
+      "hot": true,
+      "method": "Googleフォームで応募（店頭受取・二次情報）",
+      "note": "対象店舗に大阪・日本橋店あり。応募前に公式の告知で対象店舗・条件を確認してください",
+      "shop": "TCGショップ193各店",
+      "start": null,
+      "title": "「ハドウシーカー」",
+      "url": "https://tcg-chusen.com/pokeka/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-20T23:59:00+09:00",
+      "hot": false,
+      "method": "X告知経由で応募（二次情報）",
+      "note": "受付開始日未確認。応募前に公式の告知で条件を確認してください",
+      "shop": "DMMマイカ",
+      "start": null,
+      "title": "「スペシャルデッキセットMEGA」",
+      "url": "https://tcg-chusen.com/pokeka/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-18T23:59:00+09:00",
+      "hot": true,
+      "method": "LivePocketで応募（店頭受取・二次情報）",
+      "note": "30thは転売価値が高いです。応募前に公式の告知で条件を確認してください",
+      "shop": "キデイランド大阪梅田店",
+      "start": null,
+      "title": "「30th CELEBRATION」（再入荷品）購入券",
+      "url": "https://tcg-chusen.com/pokeka/osaka/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-19T23:59:00+09:00",
+      "hot": true,
+      "method": "公式サイトで応募（店頭受取・二次情報）",
+      "note": "対象は30th CELEBRATION カードセット「フシギダネ・ヒトカゲ・ゼニガメ」／「キモリ・アチャモ・ミズゴロウ」。30th カードセットは転売価値が高いです。応募前に公式の告知で条件を確認してください",
+      "shop": "カードラボ オタロード本店",
+      "start": null,
+      "title": "「30th CELEBRATION カードセット」御三家2種",
+      "url": "https://tcg-chusen.com/store/cardlabo-814ec/"
+    },
+    {
+      "applied": false,
+      "category": "chiikawa",
+      "end": "2026-11-21T18:00:00+09:00",
+      "hot": false,
+      "method": "ちいかわもぐもぐ本舗 LINE公式アカウントで申込（入店希望日ごとに1回ずつ申込可、当選はお一人様最大1回）",
+      "note": "結果発表は11/23。11/18〜2027/1/3は事前予約（抽選）・完全入れ替え制・完全キャッシュレス。限定マスコットセット5,280円あり。LINEアカウント名「ちいかわもぐもぐ本舗」",
+      "shop": "ちいかわベビーカステラ 京都錦店（11/18オープン）",
+      "start": "2026-11-18T18:00:00+09:00",
+      "title": "ちいかわベビーカステラ 京都錦店 入店抽選（第3回・11/30〜12/6入店分）",
+      "url": "https://www.chiikawamogumogu.jp/2026/10/28/post-2535/"
     }
   ],
-  "updatedAt": "2026-11-14T10:05:00+09:00"
+  "updatedAt": "2026-11-15T10:05:00+09:00"
 }
