@@ -3,18 +3,6 @@
     {
       "applied": false,
       "category": "pokeca",
-      "end": "2026-11-09T23:59:00+09:00",
-      "hot": true,
-      "method": "セブンネットで応募（購入履歴の条件あり）",
-      "note": "過去1年以内に税抜1円以上の購入履歴の条件あり（二次情報ベース）。開始時刻は予定（17:00頃）",
-      "shop": "セブンネット",
-      "start": "2026-11-04T17:00:00+09:00",
-      "title": "「ハドウシーカー」BOX",
-      "url": "https://7net.omni7.jp/general/000000app.html"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
       "end": "2026-11-10T16:59:00+09:00",
       "hot": true,
       "method": "ポケモンセンターオンラインの抽選販売ページで応募",
@@ -35,18 +23,6 @@
       "start": "2026-11-24T00:00:00+09:00",
       "title": "ちいかわクリスマスマーケット2026（イベント）",
       "url": "https://makuharishintoshin.aeonmall.jp/event/b272076a-603e-4575-ab1c-8de6bbcbf4fd"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-09T23:59:00+09:00",
-      "hot": true,
-      "method": "ファミマオンラインで応募（ファミペイ会員＆メルマガ登録必須）",
-      "note": "当選発表は11/11、購入期間は12/11〜12/24。二次情報ベースのため、応募前に公式で条件を確認してください",
-      "shop": "ファミマオンライン",
-      "start": "2026-11-04T00:00:00+09:00",
-      "title": "「ハドウシーカー」BOX",
-      "url": "https://famima-online.family.co.jp/item?itemCode=100163657179608640"
     },
     {
       "applied": false,
@@ -95,18 +71,6 @@
       "start": "2026-11-09T11:00:00+09:00",
       "title": "「ハドウシーカー」／「30th CELEBRATION」（再販）",
       "url": "https://geo-online.co.jp/news/"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-09T23:59:00+09:00",
-      "hot": true,
-      "method": "BASE店で応募（二次情報）",
-      "note": "1BOX 27,500円（税込）。30th CELEBRATION FUTURISTIC BOXは転売価値が高いです",
-      "shop": "トレカショップ「DANDAN」BASE店",
-      "start": null,
-      "title": "「30th CELEBRATION FUTURISTIC BOX」1BOX",
-      "url": "https://tcg-chusen.com/"
     },
     {
       "applied": false,
@@ -551,7 +515,55 @@
       "start": null,
       "title": "「ハドウシーカー」",
       "url": "https://gamenv.net/tc/hadoseeker/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-18T23:59:00+09:00",
+      "hot": true,
+      "method": "iAEONアプリで応募（ネット抽選・二次情報）",
+      "note": "受付は11/16 0:00〜。対象は一部店舗のiAEONアプリ抽選。まとめサイトではネット抽選（当選後に発送）扱いだが、受取方法は公式の告知で要確認。応募前に公式で対象店舗・条件を確認してください",
+      "shop": "ザ・ビッグエクストラ（イオン系列）",
+      "start": "2026-11-16T00:00:00+09:00",
+      "title": "「ハドウシーカー」",
+      "url": "https://tcg-chusen.com/store/za-bigguekusutora-97d84/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-20T23:59:00+09:00",
+      "hot": true,
+      "method": "会員Web応募（店頭受取・二次情報）",
+      "note": "受付は11/15 22:00〜。対象店舗に大阪の梅田NU茶屋町店・布施店ほか。当選発表は11/25夕方頃。会員登録・本人確認が必要な場合あり。応募前に公式の告知で対象店舗・条件を確認してください",
+      "shop": "竜のしっぽ各店",
+      "start": "2026-11-15T22:00:00+09:00",
+      "title": "「ハドウシーカー」",
+      "url": "https://tcg-chusen.com/store/noshippo-6d50e/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-20T23:59:00+09:00",
+      "hot": true,
+      "method": "会員Web応募（店頭受取・二次情報）",
+      "note": "受付は11/15 22:00〜。対象店舗に大阪の梅田NU茶屋町店・布施店ほか。当選発表は11/25夕方頃。会員登録・本人確認が必要な場合あり。30th カードセットは転売価値が高いです。応募前に公式の告知で対象店舗・条件を確認してください",
+      "shop": "竜のしっぽ各店",
+      "start": "2026-11-15T22:00:00+09:00",
+      "title": "「30th CELEBRATION カードセット」9種セット（再販分）",
+      "url": "https://tcg-chusen.com/store/noshippo-6d50e/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-22T19:30:00+09:00",
+      "hot": true,
+      "method": "X告知経由で応募（ネット抽選・当選後に発送・二次情報）",
+      "note": "受付開始日未確認。1パック200円（税込）・お一人様30パックまで。BOX単位ではない点に注意。対象は八王子大和田・相模原下九沢・甲府国母・愛甲石田・藤沢・高座渋谷・高麗川・甲府向町・羽村の9店舗分。応募前に公式の告知で条件を確認してください",
+      "shop": "ホビーオフ各店",
+      "start": null,
+      "title": "「ハドウシーカー」",
+      "url": "https://tcg-chusen.com/chain/hobbyoff/pokeka/"
     }
   ],
-  "updatedAt": "2026-11-16T10:00:00+09:00"
+  "updatedAt": "2026-11-17T09:55:00+09:00"
 }
