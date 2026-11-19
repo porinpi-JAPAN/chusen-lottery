@@ -27,18 +27,6 @@
     {
       "applied": false,
       "category": "pokeca",
-      "end": "2026-11-11T18:00:00+09:00",
-      "hot": true,
-      "method": "WEB抽選（Xの告知経由・二次情報）",
-      "note": "",
-      "shop": "晴れる屋2",
-      "start": "2026-11-05T00:00:00+09:00",
-      "title": "「ハドウシーカー」BOX",
-      "url": "https://gamenv.net/tc/hadoseeker/"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
       "end": "2026-11-22T23:59:00+09:00",
       "hot": true,
       "method": "WEB抽選（Xフォロー＋リポスト＋応募ページにX ID記載・二次情報）",
@@ -63,18 +51,6 @@
     {
       "applied": false,
       "category": "pokeca",
-      "end": "2026-11-11T23:59:00+09:00",
-      "hot": true,
-      "method": "通販サイトで応募（利用者限定・二次情報）",
-      "note": "税込5,500円・販売数12個・送料別途600円",
-      "shop": "ホビビ通販部",
-      "start": null,
-      "title": "「スペシャルデッキセットMEGA」",
-      "url": "https://tcg-chusen.com/"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
       "end": "2026-11-12T23:59:00+09:00",
       "hot": true,
       "method": "Xの告知経由で応募（二次情報）",
@@ -87,30 +63,6 @@
     {
       "applied": false,
       "category": "pokeca",
-      "end": "2026-11-11T10:59:00+09:00",
-      "hot": true,
-      "method": "ヨドバシ・ドット・コムのサイトから応募（ブラウザのみ、アプリ不可）",
-      "note": "当選発表は11/11 18:00ごろ、注文期限は11/12 23:59。対象は2024/11/6〜2026/11/5にヨドバシ・ドット・コムまたは店舗での購入履歴がある会員（店舗購入はポイント共通化済み）。公式ページで確認済み",
-      "shop": "ヨドバシ・ドット・コム",
-      "start": "2026-11-10T11:00:00+09:00",
-      "title": "「ハドウシーカー」1BOX",
-      "url": "https://limited.yodobashi.com/"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-11T23:00:00+09:00",
-      "hot": true,
-      "method": "BASE店（shop.tcgsuch.com）で応募（GODIMPACTのお気に入り登録のみ）",
-      "note": "定価7,200円・シュリンク付き1BOX。当選発表は11/14 21:00以降。応募時に与信枠確保で代金が引かれ、落選時の返金に1.5〜2ヶ月かかる場合あり。BOX相場は約21,000円（定価7,200円）で転売価値が高いです",
-      "shop": "TCG SUCH",
-      "start": "2026-11-08T07:00:00+09:00",
-      "title": "「30th CELEBRATION」シュリンク付き1BOX",
-      "url": "https://shop.tcgsuch.com/items/165383210"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
       "end": "2026-11-15T23:59:00+09:00",
       "hot": true,
       "method": "平和堂HOPアプリで応募",
@@ -119,18 +71,6 @@
       "start": "2026-11-14T09:00:00+09:00",
       "title": "「ハドウシーカー」／「30th CELEBRATION カードセット」",
       "url": "https://www.heiwado.jp"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-11T23:59:00+09:00",
-      "hot": true,
-      "method": "LivePocketで応募（会員登録・ログイン必要、お一人様1回、応募無料）",
-      "note": "当選発表は11/12まで、購入期限は11/16 23:59。当選後7,200円（税込）でECサイトで購入。BOX相場は約21,105円（11/9時点）で転売価値が高いです。LivePocketは11/11未明にシステムメンテナンス予定のため、応募は11/10中に済ませるのが安心です",
-      "shop": "Nexus Trading Cards",
-      "start": "2026-11-03T23:00:00+09:00",
-      "title": "「30th CELEBRATION」BOX",
-      "url": "https://livepocket.jp/e/a35_-"
     },
     {
       "applied": false,
@@ -563,7 +503,55 @@
       "start": "2026-11-20T07:15:00+09:00",
       "title": "GU×ちいかわ 第1弾（おでかけ着）",
       "url": "https://www.gu-global.com/jp/ja/feature/contents/collaboration/chiikawa"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-20T23:59:00+09:00",
+      "hot": true,
+      "method": "Xで @oripa_zone と @hakobitoGroup をフォロー＆対象投稿をリポスト（ネット抽選・当選後に発送・二次情報）",
+      "note": "シュリンク付き・定価・郵送購入可（送料500円）。応募前に公式の告知で条件を確認してください",
+      "shop": "ポケモンガチャ＆オリパ ZONE さいたま宮原店",
+      "start": null,
+      "title": "「ハドウシーカー」BOX",
+      "url": "https://tcg-chusen.com/store/pokemongacha-oripazonesaitama-ee4e0/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-19T22:00:00+09:00",
+      "hot": true,
+      "method": "店頭でシリアルコードを入手→LivePocketで応募（店頭受取・二次情報）",
+      "note": "会員登録必要。当選発表は11/20、購入は11/27〜29。応募前に公式の告知で条件を確認してください",
+      "shop": "イーフォーラム河内長野店",
+      "start": null,
+      "title": "「ハドウシーカー」",
+      "url": "https://tcg-chusen.com/store/iforamu-da679/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-20T20:00:00+09:00",
+      "hot": true,
+      "method": "店頭掲示のイベントページQRからLivePocketで申込（シリアルコードが必要・店頭受取・二次情報）",
+      "note": "7,200円。30thは転売価値が高いです。応募前に公式の告知で条件を確認してください",
+      "shop": "TSUTAYA BOOKSTORE ビバモール寝屋川",
+      "start": null,
+      "title": "「30th CELEBRATION」",
+      "url": "https://tcg-chusen.com/chain/tsutaya/pokeka/30th-celebration/"
+    },
+    {
+      "applied": false,
+      "category": "chiikawa",
+      "end": "2026-11-29T19:00:00+09:00",
+      "hot": false,
+      "method": "LINE公式アカウント「ちいかわ・ナガノキャラクターズチケット」で申込（顔写真＋氏名登録必須、期間中1人1回まで）",
+      "note": "受付は各入店日の前日19:00〜。11/24入店分は11/23 19:00〜。プレオープンの抽選に外れた人も申込可。12/1以降の整理券は未発表。LINE ID @786sasix。二次情報ベース（公式X 11/16夜の案内）",
+      "shop": "ちいかわパークストア大阪（ルクア サウス11階）",
+      "start": "2026-11-23T19:00:00+09:00",
+      "title": "ちいかわパークストア大阪 入店LINE整理券（11/24〜30入店分）",
+      "url": ""
     }
   ],
-  "updatedAt": "2026-11-18T10:05:00+09:00"
+  "updatedAt": "2026-11-19T09:55:00+09:00"
 }
