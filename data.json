@@ -75,18 +75,6 @@
     {
       "applied": false,
       "category": "pokeca",
-      "end": "2026-11-13T11:59:00+09:00",
-      "hot": true,
-      "method": "イトーヨーカドーネット通販の抽選ページで応募（7ID会員登録・電話番号認証が必要）",
-      "note": "当選後は通販で購入し自宅へ郵送。二次情報ベースのため、応募前に公式で条件を確認してください",
-      "shop": "イトーヨーカドーネット通販",
-      "start": null,
-      "title": "「ハドウシーカー」1BOX",
-      "url": "https://tcg-chusen.com/chain/itoyokado/pokeka/hadou-seeker/"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
       "end": "2026-11-15T23:59:00+09:00",
       "hot": true,
       "method": "エディオン公式抽選ページで応募（エディオン会員必須・SMS認証）",
@@ -538,7 +526,7 @@
       "shop": "古本市場（ふるいち）各店",
       "start": "2026-11-17T23:00:00+09:00",
       "title": "「ハドウシーカー」",
-      "url": "https://tcg-chusen.com/guide/furuichi/"
+      "url": "https://www.furu1.net/news/news_information/pkop20261127sl"
     },
     {
       "applied": false,
@@ -575,7 +563,115 @@
       "start": null,
       "title": "「30th CELEBRATION」1BOX",
       "url": "https://www.torecolo.jp/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-22T23:59:00+09:00",
+      "hot": true,
+      "method": "LivePocketで応募（1人1回・1店舗のみ）",
+      "note": "受付は11/20 10:50〜。対象店舗に大阪日本橋店あり（ほか八王子本店・立川南口・町田・吉祥寺・新宿南口・仙台・福岡天神・札幌）。結果発表は11/24〜25、購入は11/27〜29。購入時にマイナンバーカード（実物）が必要（期限切れ・通知書は不可）、プレイヤーズクラブのプレイヤーIDが必要。お一人様1BOX 6,000円。公式ページで確認済み",
+      "shop": "フルコンプ 一部店舗",
+      "start": "2026-11-20T10:50:00+09:00",
+      "title": "「ハドウシーカー」",
+      "url": "https://livepocket.jp/e/xovyf"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-22T23:59:00+09:00",
+      "hot": true,
+      "method": "LivePocketで応募（1人1回・店舗ごとに申込）",
+      "note": "対象店舗に京都店・大阪なんば店・オタロード店あり（ほか広島・名古屋大須）。1BOX 6,000円。購入は11/27〜29、購入時に本人確認書類が必要。公式ページで確認済み",
+      "shop": "トレカ専門店GIRAFULL 各店",
+      "start": null,
+      "title": "「ハドウシーカー」",
+      "url": "https://livepocket.jp/p/puf0p"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-22T19:59:00+09:00",
+      "hot": true,
+      "method": "Googleフォームで応募（店頭受取・二次情報）",
+      "note": "大阪・心斎橋アメリカ村店。6,000円。応募前に公式の告知で条件を確認してください",
+      "shop": "MINT GAMES 心斎橋アメリカ村店",
+      "start": null,
+      "title": "「ハドウシーカー」",
+      "url": "https://tcg-chusen.com/store/mintgames-amerika-0d94f/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-22T21:00:00+09:00",
+      "hot": true,
+      "method": "Googleフォームで応募（店頭受取・二次情報）",
+      "note": "大阪・梅田店。6,000円。応募前に公式の告知で条件を確認してください",
+      "shop": "MINT梅田店",
+      "start": null,
+      "title": "「ハドウシーカー」",
+      "url": "https://tcg-chusen.com/chain/mint/pokeka/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-22T20:00:00+09:00",
+      "hot": true,
+      "method": "レプトン会員アプリのトップ画面のスライドバナーから応募（二次情報）",
+      "note": "対象は6店舗で、京都の祇園店を含む（ほか広島中心）。店頭受取。アプリ申込のため公開リンクなし。応募前に公式アプリで対象店舗・条件を確認してください",
+      "shop": "レプトン各店",
+      "start": null,
+      "title": "「ハドウシーカー」",
+      "url": ""
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-22T23:59:00+09:00",
+      "hot": true,
+      "method": "Googleフォームで応募（二次情報）",
+      "note": "受付は11/18 20:00〜。1BOX 6,000円。当選発表は11/23〜24（当選者のみメール）。応募前に公式の告知で条件を確認してください",
+      "shop": "トレカプラザ55通販",
+      "start": "2026-11-18T20:00:00+09:00",
+      "title": "「ハドウシーカー」1BOX",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeNdQItGyUMs7dhwBfG_MXHz3ytkmwhOmev9BPbJHIjDAjnBQ/viewform"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-22T23:59:00+09:00",
+      "hot": true,
+      "method": "X（フォロー＋リポスト）で応募（二次情報）",
+      "note": "大阪・和泉中央店。1箱6,000円・お一人様1箱。店舗の公式Xで告知を確認してください",
+      "shop": "BOOKOFFお宝大陸和泉中央店",
+      "start": null,
+      "title": "「ハドウシーカー」1箱",
+      "url": "https://tcg-chusen.com/chain/bookoff/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-22T23:59:00+09:00",
+      "hot": true,
+      "method": "通販サイトで応募（二次情報）",
+      "note": "受付開始日未確認。応募前に公式で条件を確認してください",
+      "shop": "福福トレカ",
+      "start": null,
+      "title": "「ハドウシーカー」",
+      "url": "https://pokemon.fukufukutoreka.com/"
+    },
+    {
+      "applied": false,
+      "category": "chiikawa",
+      "end": "2026-11-22T23:59:00+09:00",
+      "hot": true,
+      "method": "LINE公式アカウント「ちいかわ・ナガノキャラクターズチケット」で申込（各日1店舗1回まで）",
+      "note": "受付は11/20 10:00〜。当選発表は11/23中（申込ページのマイチケットで確認）。二次先着は空きが出た場合のみ店舗別に11/23〜25の各20:00〜（京都四条河原町店・心斎橋パルコ店は11/24 20:00〜）。対象11店舗：原宿・ソラマチ・横浜・新宿・池袋パルコ・越谷レイクタウン・京都四条河原町・心斎橋パルコ・金沢フォーラス・札幌パルコ・福岡パルコ。11/27発売の「ちいかわクリニック」商品エリアが30分ごとの入替制（商品エリアの7店舗）。入店チケットは購入を保証しない。LINE ID @786sasix。二次情報ベース（公式X 11/19発表）",
+      "shop": "ちいかわらんど11店舗",
+      "start": "2026-11-20T10:00:00+09:00",
+      "title": "ちいかわクリニック 入店抽選（11/27〜入店分）",
+      "url": ""
     }
   ],
-  "updatedAt": "2026-11-20T10:05:00+09:00"
+  "updatedAt": "2026-11-21T09:53:58+09:00"
 }
