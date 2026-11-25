@@ -87,18 +87,6 @@
     {
       "applied": false,
       "category": "pokeca",
-      "end": "2026-11-17T23:59:00+09:00",
-      "hot": true,
-      "method": "通販サイトで応募（二次情報）",
-      "note": "受付開始日未確認。30th カードセットは転売価値が高いです。応募前に公式で条件を確認してください",
-      "shop": "カードボックス通販／CBトレコロ",
-      "start": null,
-      "title": "「30th CELEBRATION カードセット」9種セット",
-      "url": "https://www.torecolo.jp/"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
       "end": "2026-11-20T23:59:00+09:00",
       "hot": true,
       "method": "コジマ公式アプリから応募（店頭受取）",
@@ -495,10 +483,10 @@
     {
       "applied": false,
       "category": "pokeca",
-      "end": "2026-11-22T23:59:00+09:00",
+      "end": "2026-11-25T23:59:00+09:00",
       "hot": true,
       "method": "通販サイトで応募（二次情報）",
-      "note": "受付開始日未確認。応募前に公式で条件を確認してください",
+      "note": "新ラウンド（11/25 23:59締切）。受付開始日未確認。応募前に公式で条件を確認してください",
       "shop": "福福トレカ",
       "start": null,
       "title": "「ハドウシーカー」",
@@ -779,7 +767,67 @@
       "start": "2026-11-23T20:00:00+09:00",
       "title": "「30th CELEBRATION カードセット」各種",
       "url": "https://tcg-chusen.com/store/torekapuraza55-88855/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-26T23:59:00+09:00",
+      "hot": true,
+      "method": "LivePocketで応募（1店舗のみ応募可・公式確認済み）",
+      "note": "再販分。1BOX 6,000円・当選者は2BOXまで、シュリンクを外して販売。対象店舗に大阪・日本橋2's店、京都・イオンモールKYOTO店あり。当選発表は12/3、購入は12/7〜12/13、購入時の本人確認はマイナンバーカードのみ。公式ページで確認済み",
+      "shop": "ホビーステーション各店",
+      "start": "2026-11-24T12:00:00+09:00",
+      "title": "「ハドウシーカー」",
+      "url": "https://livepocket.jp/e/d275s"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-27T20:00:00+09:00",
+      "hot": true,
+      "method": "X（フォロー＆リポスト）で応募（店頭受取・二次情報）",
+      "note": "大阪・オタロード店と大阪日本橋本店。定価販売。応募前に公式Xで内容を確認してください",
+      "shop": "サポートチャンス オタロード店・大阪日本橋本店",
+      "start": null,
+      "title": "「ハドウシーカー」",
+      "url": "https://tcg-chusen.com/store/sapotochansuotarodo-21699/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-25T23:59:00+09:00",
+      "hot": true,
+      "method": "X（フォロー＆リポスト）で応募（店頭受取・二次情報）",
+      "note": "大阪・高槻栄店。1BOX 6,000円・お一人様1BOX。応募前に公式Xで内容を確認してください",
+      "shop": "ブックオフ高槻栄店",
+      "start": null,
+      "title": "「ハドウシーカー」",
+      "url": ""
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-25T23:59:00+09:00",
+      "hot": true,
+      "method": "X（フォロー＆リポスト）で応募（店頭受取・二次情報）",
+      "note": "大阪・豊中三国店。応募前に公式Xで内容を確認してください",
+      "shop": "ブックオフ豊中三国店",
+      "start": null,
+      "title": "「ハドウシーカー」",
+      "url": ""
+    },
+    {
+      "applied": false,
+      "category": "chiikawa",
+      "end": "2026-12-09T18:00:00+09:00",
+      "hot": false,
+      "method": "LINEで申込（各入店日の前日18:00〜先着・顔写真＋氏名登録必須）",
+      "note": "12/1〜10入店分。受付は入店したい日の前日18:00〜（初回は11/30 18:00・12/1入店分）。12/11以降の入店方法は未発表。二次情報ベース",
+      "shop": "ちいかわクリニック 8会場（催事）",
+      "start": "2026-11-30T18:00:00+09:00",
+      "title": "ちいかわクリニック 入店先着予約（12/1〜10入店分）",
+      "url": "https://chiifan.com/articles/550.html"
     }
   ],
-  "updatedAt": "2026-11-24T09:53:43+09:00"
+  "updatedAt": "2026-11-25T09:52:00+09:00"
 }
