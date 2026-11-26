@@ -27,18 +27,6 @@
     {
       "applied": false,
       "category": "pokeca",
-      "end": "2026-11-18T23:59:00+09:00",
-      "hot": true,
-      "method": "楽天ブックスの抽選ページで応募（楽天会員・住所登録必須）",
-      "note": "対象は「ハドウシーカー」「スペシャルデッキセットMEGA」「30th CELEBRATION」「30th CELEBRATION カードセット9種」「ストームエメラルダ」「スターターセットex イーブイex」「メガシンフォニア」「メガブレイブ」。商品ごとに申込可だが当選は1人1点まで。支払いはクレジットカード決済のみ。購入期間は11/29 10:00〜12/3 23:59、当落は販売開始日までにメール通知。30thは転売価値が高いです",
-      "shop": "楽天ブックス",
-      "start": "2026-11-13T10:00:00+09:00",
-      "title": "「ハドウシーカー」／「スペシャルデッキセットMEGA」／「30th CELEBRATION」ほか MEGAシリーズ",
-      "url": "https://books.rakuten.co.jp/rb/18664603/"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
       "end": "2026-11-23T23:59:00+09:00",
       "hot": true,
       "method": "通販サイトで応募（二次情報）",
@@ -75,18 +63,6 @@
     {
       "applied": false,
       "category": "pokeca",
-      "end": "2026-11-18T23:59:00+09:00",
-      "hot": true,
-      "method": "LivePocketで応募（お一人様1回のみ）",
-      "note": "当選発表は11/25 18:00頃、購入は11/27〜29に指定店舗の店頭で。対象店舗に京都四条河原町・大阪梅田・ららぽーとEXPOCITY・堺鉄砲町あり。大阪梅田店では「30th CELEBRATION」の再販分も同時抽選。公式ページで確認済み",
-      "shop": "キデイランド各店",
-      "start": "2026-11-16T10:00:00+09:00",
-      "title": "「ハドウシーカー」",
-      "url": "https://livepocket.jp/p/hpmzs"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
       "end": "2026-11-20T23:59:00+09:00",
       "hot": true,
       "method": "コジマ公式アプリから応募（店頭受取）",
@@ -95,18 +71,6 @@
       "start": "2026-11-13T00:00:00+09:00",
       "title": "「ハドウシーカー」1BOX",
       "url": "https://gamenv.net/tc/hado_kojima/"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-18T20:59:00+09:00",
-      "hot": true,
-      "method": "Xフォロー＆リポストで応募（店頭受取・二次情報）",
-      "note": "7,200円・36名様。11/17締切分とは別の新規受付（本日20:59締切）。30thは転売価値が高いです。応募前に公式の告知で条件を確認してください",
-      "shop": "NカードLOOP なんば店",
-      "start": null,
-      "title": "「30th CELEBRATION」1BOX",
-      "url": "https://tcg-chusen.com/store/nkadoloopnanba-da082/"
     },
     {
       "applied": false,
@@ -135,18 +99,6 @@
     {
       "applied": false,
       "category": "pokeca",
-      "end": "2026-11-18T23:59:00+09:00",
-      "hot": true,
-      "method": "LivePocketで応募（店頭受取・二次情報）",
-      "note": "30thは転売価値が高いです。応募前に公式の告知で条件を確認してください",
-      "shop": "キデイランド大阪梅田店",
-      "start": null,
-      "title": "「30th CELEBRATION」（再入荷品）購入券",
-      "url": "https://tcg-chusen.com/pokeka/osaka/"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
       "end": "2026-11-19T23:59:00+09:00",
       "hot": true,
       "method": "公式サイトで応募（店頭受取・二次情報）",
@@ -167,30 +119,6 @@
       "start": "2026-11-18T18:00:00+09:00",
       "title": "ちいかわベビーカステラ 京都錦店 入店抽選（第3回・11/30〜12/6入店分）",
       "url": "https://www.chiikawamogumogu.jp/2026/10/28/post-2535/"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-18T23:59:00+09:00",
-      "hot": true,
-      "method": "WEB抽選（X告知経由・通販で応募・受取）",
-      "note": "受付は11/11〜11/18 23:59。当選発表は11/20。二次情報ベースのため、応募前に公式の告知で条件を確認してください",
-      "shop": "トイトイトレカ（通販）",
-      "start": null,
-      "title": "「ハドウシーカー」",
-      "url": "https://gamenv.net/tc/hadoseeker/"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-18T23:59:00+09:00",
-      "hot": true,
-      "method": "iAEONアプリで応募（ネット抽選・二次情報）",
-      "note": "受付は11/16 0:00〜。対象は一部店舗のiAEONアプリ抽選。まとめサイトではネット抽選（当選後に発送）扱いだが、受取方法は公式の告知で要確認。応募前に公式で対象店舗・条件を確認してください",
-      "shop": "ザ・ビッグエクストラ（イオン系列）",
-      "start": "2026-11-16T00:00:00+09:00",
-      "title": "「ハドウシーカー」",
-      "url": "https://tcg-chusen.com/store/za-bigguekusutora-97d84/"
     },
     {
       "applied": false,
@@ -665,10 +593,10 @@
       "category": "pokeca",
       "end": "2026-11-26T23:59:00+09:00",
       "hot": true,
-      "method": "通販サイトで応募（送料無料・二次情報）",
-      "note": "1BOX 6,000円税込・定価抽選販売。会員登録が必要な場合あり。応募前に公式で条件を確認してください",
+      "method": "抽選専用オリパを引いて応募（公式確認済み）",
+      "note": "1BOX 6,000円税込・定価抽選販売。応募期間11/13 0:00〜11/26 23:59。お一人様1回限り。当選発表は登録メールへの連絡。公式ページで確認済み",
       "shop": "アイリストレカ",
-      "start": null,
+      "start": "2026-11-13T00:00:00+09:00",
       "title": "「ハドウシーカー」1BOX",
       "url": "https://tcg-chusen.com/store/airisutoreka-d2e13/"
     },
@@ -827,7 +755,91 @@
       "start": "2026-11-30T18:00:00+09:00",
       "title": "ちいかわクリニック 入店先着予約（12/1〜10入店分）",
       "url": "https://chiifan.com/articles/550.html"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-29T23:30:00+09:00",
+      "hot": true,
+      "method": "ローソンWEB会員（11/25 10:00までに登録完了の方対象）・応募フォームで申込・当選者はLoppi端末で購入",
+      "note": "当選発表12/4 18:00（当選者のみメール）・購入12/4 18:00〜12/8 23:30・お渡し12/18以降・6,860円税込送料込・お一人様1回限り。公式ページで確認済み",
+      "shop": "ローソン（Loppi・HMV&BOOKS online）",
+      "start": "2026-11-25T10:00:00+09:00",
+      "title": "「30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー」",
+      "url": "https://img.hmv.co.jp/cont/online/pkloppicard_lp/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-27T10:00:00+09:00",
+      "hot": true,
+      "method": "通販サイトで応募（二次情報）",
+      "note": "受付開始日未確認。応募前に公式で条件を確認してください",
+      "shop": "トレカポート（Toreca Port）",
+      "start": null,
+      "title": "「ハドウシーカー」",
+      "url": "https://www.toreca-port.com"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-27T23:59:00+09:00",
+      "hot": true,
+      "method": "X（フォロー＆リポスト）で応募（店頭受取・二次情報）",
+      "note": "大阪・高槻店。応募前に公式Xで内容を確認してください",
+      "shop": "TCG NEX 大阪高槻店",
+      "start": null,
+      "title": "「ハドウシーカー」",
+      "url": ""
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-26T23:59:00+09:00",
+      "hot": true,
+      "method": "X（フォロー＆リポスト）で応募・申込ページから抽選券を受け取る（通販・二次情報）",
+      "note": "1BOX 6,000円。応募前に公式の告知で条件を確認してください",
+      "shop": "エクストレカ",
+      "start": null,
+      "title": "「ハドウシーカー」",
+      "url": ""
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-26T23:59:00+09:00",
+      "hot": true,
+      "method": "X（フォロー＆リポスト）で応募・申込ページから抽選券を受け取る（通販・二次情報）",
+      "note": "1BOX 6,000円。応募前に公式の告知で条件を確認してください",
+      "shop": "ガチャガチャマーケット",
+      "start": null,
+      "title": "「ハドウシーカー」",
+      "url": ""
+    },
+    {
+      "applied": false,
+      "category": "chiikawa",
+      "end": "2027-01-30T23:59:00+09:00",
+      "hot": false,
+      "method": "Japanticketで先着販売（公式サイトの予約ページから）",
+      "note": "1,350円（手数料込、1,000円分のお買物券＋ノベルティ付き）。1回の注文で6名分まで。来店日前日23:59まで購入可。大阪の10月・11月・12月分は完売のため、販売中の枠は主に2027年1月分。東京（表参道）も同日程。公式ページで確認済み",
+      "shop": "ちいかわベーカリー OSAKA（KITTE大阪3階）",
+      "start": "2026-11-25T17:00:00+09:00",
+      "title": "ちいかわベーカリー OSAKA 優先入場券（12/1〜2027/1/31来店分）",
+      "url": "https://chiikawabakery.jp/reservation/"
+    },
+    {
+      "applied": false,
+      "category": "chiikawa",
+      "end": "2026-12-10T23:59:00+09:00",
+      "hot": false,
+      "method": "入場整理券制（11/26〜11/29の4日間）・以降はフリー入場（混雑時は整理券の可能性あり）",
+      "note": "Kiramekko Teddy Bear Christmas 各2,420円（11/26〜）、ぷからいず 各1,760円（11/27〜、1会計につき各1点まで）。二次情報ベース",
+      "shop": "エキマル ア・ラ・モード JR京都駅西口店",
+      "start": "2026-11-26T00:00:00+09:00",
+      "title": "ちいかわ POP UP STORE（エキマル ア・ラ・モード JR京都駅西口店）",
+      "url": "https://asobi-and-play.jp/chiikawa-popup-kyoto-station-2026/"
     }
   ],
-  "updatedAt": "2026-11-25T09:52:00+09:00"
+  "updatedAt": "2026-11-26T09:56:45+09:00"
 }
