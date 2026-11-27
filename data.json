@@ -75,18 +75,6 @@
     {
       "applied": false,
       "category": "pokeca",
-      "end": "2026-11-19T23:59:00+09:00",
-      "hot": true,
-      "method": "Googleフォームで応募（店頭受取・二次情報）",
-      "note": "対象店舗に大阪・日本橋店あり。応募前に公式の告知で対象店舗・条件を確認してください",
-      "shop": "TCGショップ193各店",
-      "start": null,
-      "title": "「ハドウシーカー」",
-      "url": "https://tcg-chusen.com/pokeka/"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
       "end": "2026-11-20T23:59:00+09:00",
       "hot": false,
       "method": "X告知経由で応募（二次情報）",
@@ -95,18 +83,6 @@
       "start": null,
       "title": "「スペシャルデッキセットMEGA」",
       "url": "https://tcg-chusen.com/pokeka/"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-19T23:59:00+09:00",
-      "hot": true,
-      "method": "公式サイトで応募（店頭受取・二次情報）",
-      "note": "対象は30th CELEBRATION カードセット「フシギダネ・ヒトカゲ・ゼニガメ」／「キモリ・アチャモ・ミズゴロウ」。30th カードセットは転売価値が高いです。応募前に公式の告知で条件を確認してください",
-      "shop": "カードラボ オタロード本店",
-      "start": null,
-      "title": "「30th CELEBRATION カードセット」御三家2種",
-      "url": "https://tcg-chusen.com/store/cardlabo-814ec/"
     },
     {
       "applied": false,
@@ -158,18 +134,6 @@
     },
     {
       "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-19T23:59:00+09:00",
-      "hot": true,
-      "method": "X告知経由で応募（ネット抽選・当選後に発送・二次情報）",
-      "note": "1人1BOX・シュリンクなし。応募前に公式の告知で条件を確認してください",
-      "shop": "カードゲームショップどみなり屋",
-      "start": null,
-      "title": "「ハドウシーカー」",
-      "url": "https://tcg-chusen.com/pokeka/hadou-seeker/"
-    },
-    {
-      "applied": false,
       "category": "sales",
       "end": null,
       "hot": true,
@@ -191,18 +155,6 @@
       "start": null,
       "title": "「ハドウシーカー」BOX",
       "url": "https://tcg-chusen.com/store/pokemongacha-oripazonesaitama-ee4e0/"
-    },
-    {
-      "applied": false,
-      "category": "pokeca",
-      "end": "2026-11-19T22:00:00+09:00",
-      "hot": true,
-      "method": "店頭でシリアルコードを入手→LivePocketで応募（店頭受取・二次情報）",
-      "note": "会員登録必要。当選発表は11/20、購入は11/27〜29。応募前に公式の告知で条件を確認してください",
-      "shop": "イーフォーラム河内長野店",
-      "start": null,
-      "title": "「ハドウシーカー」",
-      "url": "https://tcg-chusen.com/store/iforamu-da679/"
     },
     {
       "applied": false,
@@ -690,7 +642,7 @@
       "end": "2026-11-30T23:59:00+09:00",
       "hot": true,
       "method": "Googleフォームで応募（二次情報）",
-      "note": "当選発表は12/1〜12/2（当選者のみメール）。30th カードセットは転売価値が高いです。応募前に公式の告知で条件を確認してください",
+      "note": "再入荷分・キャンセル分の抽選。当選発表は12/1〜12/2（当選者のみメール）。30th カードセットは転売価値が高いです。応募前に公式の告知で条件を確認してください",
       "shop": "トレカプラザ55",
       "start": "2026-11-23T20:00:00+09:00",
       "title": "「30th CELEBRATION カードセット」各種",
@@ -839,7 +791,43 @@
       "start": "2026-11-26T00:00:00+09:00",
       "title": "ちいかわ POP UP STORE（エキマル ア・ラ・モード JR京都駅西口店）",
       "url": "https://asobi-and-play.jp/chiikawa-popup-kyoto-station-2026/"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-12-03T23:59:00+09:00",
+      "hot": true,
+      "method": "DMMマイカで応募（会員登録・二次情報）",
+      "note": "10/27〜11/26の購入5,000円ごとに1口。応募前に公式で条件を確認してください",
+      "shop": "DMMマイカ",
+      "start": "2026-11-27T07:00:00+09:00",
+      "title": "「ハドウシーカー」",
+      "url": "https://myca.dmm.com"
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2026-11-27T17:00:00+09:00",
+      "hot": false,
+      "method": "Webフォームで応募（二次情報）",
+      "note": "対象はスペシャルデッキセットMEGA（メガオーダイル・メガカイリュー・メガゲンガー）。受付は11/27 17:00まで。応募前に公式で条件を確認してください",
+      "shop": "ホビーサーチ",
+      "start": null,
+      "title": "「スペシャルデッキセットMEGA」",
+      "url": ""
+    },
+    {
+      "applied": false,
+      "category": "pokeca",
+      "end": "2027-02-18T23:59:00+09:00",
+      "hot": true,
+      "method": "X（フォロー＆リポスト）で応募（全国配送対応・二次情報）",
+      "note": "ハイクラスパック「MEGA×MEGAパレード」の抽選販売。受付開始日未確認。応募前に公式の告知で条件を確認してください",
+      "shop": "トレカSHOPあんりみてっど",
+      "start": null,
+      "title": "「MEGA×MEGAパレード」",
+      "url": "https://tcg-chusen.com/store/torekashopanrimiteddo-51a5e/"
     }
   ],
-  "updatedAt": "2026-11-26T09:56:45+09:00"
+  "updatedAt": "2026-11-27T10:05:00+09:00"
 }
